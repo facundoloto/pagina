@@ -1,0 +1,13 @@
+.cabezera h1{
+    text-align: center;
+}
+.menu ul li {
+ align-items: center;
+ display: inline-block;
+ margin: 150px;
+ padding: 0px;
+}
+.pie{
+    text-align: center;
+    padding: 50px;
+}
